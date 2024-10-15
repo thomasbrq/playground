@@ -1,0 +1,14 @@
+{
+  "name": "birthday-probabilities",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ervy": "^1.0.7"
+  }
+}
